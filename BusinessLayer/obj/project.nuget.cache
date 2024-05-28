@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3zRGpKjVTyonxoBu+EJ5XR6TnwWbUh27E86dyp5nnhFBmy7K7ozA1JsovugQuGSbt6xqoTnTCmeOTYdRJV5MDg==",
+  "success": true,
+  "projectFilePath": "D:\\.Net\\Training\\BusinessLayer\\BusinessLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.19\\microsoft.windowsdesktop.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.19\\microsoft.netcore.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.19\\microsoft.aspnetcore.app.ref.7.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}
